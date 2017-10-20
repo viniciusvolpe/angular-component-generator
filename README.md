@@ -2,7 +2,7 @@
 
 Install
 
-`npm install -g angular-component-generator`
+`npm install -g angular-component-gen`
 
 Use
 
