@@ -5,6 +5,7 @@ Install
 `npm install -g angular-component-generator`
 
 Use
+
 `angular-component create my-component-name`
 
 Generated components:
