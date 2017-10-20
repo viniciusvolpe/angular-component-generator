@@ -1,12 +1,14 @@
-Angular 1.5 componentes generatos
+**Angular 1.5 componentes generatos**
 
 Install
-    npm install -g angular-component-generator
+
+`npm install -g angular-component-generator`
 
 Use
-    angular-component create my-component-name
+`angular-component create my-component-name`
 
 Generated components:
+
     \my-component-name
         - my-component-name.controller.js
         - my-component-name.component.js
